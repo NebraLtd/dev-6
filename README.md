@@ -1,2 +1,3 @@
-# hnt_openfleet_template
-Template repository for generating openfleet repositories.
+# Dev-6 Test Fleet
+
+Dev-6 fleet README.
